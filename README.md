@@ -1,35 +1,59 @@
-# tarot
-# Tarot App
 
-Esta es una aplicación web simple que proporciona lecturas diarias de cartas del tarot. Al hacer clic en el botón "Obtener tu carta", se muestra aleatoriamente una carta del tarot junto con una interpretación relacionada con cómo puede afectar tu día.
+# Cartas del Tarot Diaria
 
-## Vista previa
+Este proyecto web te proporciona una lectura diaria de cartas del tarot, ofreciendo orientación y reflexiones para tu día. Obtén tu carta del día haciendo clic en el botón correspondiente.
 
-![Vista previa de la aplicación](screenshot.png)
+## Cómo funciona
 
-## Cómo usar
+1. Abre `index.html` en tu navegador para acceder a la página.
+2. Haz clic en el botón "Obten tu carta" para recibir una carta del tarot de forma aleatoria.
+3. La imagen y la descripción de la carta aparecerán en la sección correspondiente.
 
-1. Abre `index_tarot.html` en tu navegador web.
-2. Haz clic en el botón "Obten tu carta" para recibir tu lectura diaria del tarot.
+## Estructura del Proyecto
 
-## Contenido del repositorio
-
-- `index_tarot.html`: El archivo HTML principal que contiene la estructura de la página.
-- `style.css`: El archivo de estilo CSS que define el diseño y la apariencia de la aplicación.
-- `script.js`: El archivo JavaScript que maneja la lógica de la aplicación, incluida la generación aleatoria de cartas del tarot.
+- `index.html`: Archivo principal que define la estructura de la página.
+- `style.css`: Archivo de estilos para dar formato y diseño a la página.
+- `script.js`: Archivo JavaScript que maneja la lógica de la lectura de cartas del tarot.
 
 ## Cartas del Tarot
 
-Las cartas del tarot y sus interpretaciones se encuentran en el array `cartasDelTarot` dentro del archivo `script.js`. Cada carta tiene un nombre, una imagen y una interpretación asociada.
+Las cartas del tarot disponibles en este proyecto incluyen:
 
-## Personalización
+- El Mago
+- La Sacerdotisa
+- La Emperatriz
+- El Emperador
+- El Hierofante
+- Los Enamorados
+- El Carro
+- El Ermitaño
+- La Rueda de la Fortuna
+- La Fuerza
+- El Colgado
+- La Muerte
+- La Templanza
+- El Diablo
+- La Torre
+- La Estrella
+- La Luna
+- El Sol
+- La Justicia
+- El Mundo
+- El Loco
 
-Siéntete libre de personalizar y expandir esta aplicación según tus necesidades. Puedes agregar más cartas del tarot, cambiar la apariencia o incluso incorporar funciones adicionales.
+¡Descubre qué carta te guiará hoy!
 
-## Contribuciones
+## Desarrollo y Contribución
 
-Las contribuciones son bienvenidas. Si encuentras problemas o tienes sugerencias de mejora, por favor, abre un problema o envía una solicitud de extracción.
+Si deseas contribuir al desarrollo de este proyecto, siéntete libre de hacer un *fork* y enviar tus *pull requests*. También puedes reportar problemas en la sección de problemas (*Issues*).
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia MIT](LICENSE).
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo `LICENSE`.
+
+---
+
+¡Disfruta de tu lectura diaria de cartas del tarot y que tengas un día lleno de inspiración y sabiduría!
+
+Meow
+
